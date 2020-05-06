@@ -1,0 +1,19 @@
+{
+    "name": "kapdom/online-video-grabber",
+    "description": "Grab video link ready to embed and thumbnail from 5 most popular online video providers",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "doomkap",
+            "email": "kap.dominik@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "KapDom\\OnlineVideoGrabber\\": "src/"
+        }
+    },
+    "require": {}
+}
